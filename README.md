@@ -1,6 +1,6 @@
 ## 风控调研
 **风控流程体系（2022.01）**<br>
-智能风控行业产业链、账户制风控全流程体系，及蚂蚁、京东等风控流程调研。[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a50a50d9-aa67-4b50-9b5b-a829beba1bb1/%E9%A3%8E%E6%8E%A7%E6%B5%81%E7%A8%8B%E4%BD%93%E7%B3%BB%E8%B0%83%E7%A0%94_%E8%B4%A6%E6%88%B7%E5%88%B6%E9%A3%8E%E6%8E%A7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220521T174641Z&X-Amz-Expires=86400&X-Amz-Signature=05c0be587fc997796a6ec294b944285f5389167233ae0616fe646a993b568eb0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E9%25A3%258E%25E6%258E%25A7%25E6%25B5%2581%25E7%25A8%258B%25E4%25BD%2593%25E7%25B3%25BB%25E8%25B0%2583%25E7%25A0%2594_%25E8%25B4%25A6%25E6%2588%25B7%25E5%2588%25B6%25E9%25A3%258E%25E6%258E%25A7.pdf%22&x-id=GetObject)
+智能风控行业产业链、账户制风控全流程体系，及蚂蚁、京东等风控流程调研。[PDF](https://maifile.cn/pdf/a74628175392.pdf)
 
 **反欺诈（2022.01）**<br>
-欺诈与反欺诈背景、主要欺诈风险、常见反欺诈手段与技术、反欺诈体系调研。[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80622dcb-056d-40b1-93fb-e50b21338dbd/%E5%8F%8D%E6%AC%BA%E8%AF%88%E8%B0%83%E7%A0%94.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220521T174653Z&X-Amz-Expires=86400&X-Amz-Signature=84e2ccfbf1314882c10789c3bf1cea2cc182acb08c8fa7871442f5e18c48cd03&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E5%258F%258D%25E6%25AC%25BA%25E8%25AF%2588%25E8%25B0%2583%25E7%25A0%2594.pdf%22&x-id=GetObject)
+欺诈与反欺诈背景、主要欺诈风险、常见反欺诈手段与技术、反欺诈体系调研。[PDF](https://maifile.cn/pdf/a78428178894.pdf)
